@@ -1,4 +1,4 @@
-# 👋 Aditya Goel
+# Aditya Goel
 
 **Assistant Director - GenAI & Innovation | AI Product Manager | GenAI Engineer (Agentic AI + RAG)**  
 
@@ -29,10 +29,10 @@ He has led the launch of **8+ AI products used by 1,000+ users**, and serves as 
 ## 💼 Experience Snapshot
 
 - Assistant Director – HSBC (AI / GenAI / ML)
-- Built enterprise AI and ML systems across risk, analytics, and decision intelligence
+- Built enterprise AI and ML systems across risk, finance, healthcare, tech, and decision intelligence
 - Delivered production-grade AI tools
 - Led GenAI adoption, governance, and training initiatives
-- Built Machine Learning and Data Science end-to-end models
+- Built Machine Learning and Data Science end-to-end risk and financial models
 
 ---
 
