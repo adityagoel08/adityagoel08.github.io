@@ -1,16 +1,16 @@
 # 👋 Aditya Goel
 
-**Assistant Director @ HSBC | AI Product Strategist | GenAI Engineer (Agentic AI + RAG)**  
+**Assistant Director - GenAI & Innovation | AI Product Manager | GenAI Engineer (Agentic AI + RAG)**  
 
 ---
 
 ## 🚀 About
 
-Aditya Goel is an AI Product Manager and Generative AI Engineer with 10+ years of experience building and deploying real-world AI systems.
+Aditya Goel is an AI Product Manager and Generative AI Engineer with 10 years of experience building and deploying real-world AI systems.
 
 He specializes in taking AI from concept to production—designing agentic workflows, RAG systems, and automation solutions that drive measurable business impact and reduce operational costs.
 
-He has led the launch of **8+ AI products used by 1,000+ users**, and serves as a **Technical Reviewer for O’Reilly’s AI publications**.
+He has led the launch of **8+ AI products used by 1,000+ users**, and serves as a **Technical Reviewer for O’Reilly's AI publications**.
 
 > **“The goal isn’t just to build smarter machines, but systems people can trust—to think clearer, decide better, and live easier.”**
 
@@ -29,9 +29,10 @@ He has led the launch of **8+ AI products used by 1,000+ users**, and serves as 
 ## 💼 Experience Snapshot
 
 - Assistant Director – HSBC (AI / GenAI / ML)
-- Built enterprise AI systems across risk, analytics, and decision intelligence
-- Delivered production-grade AI tools (QueryLens, SummarEase, InsightBot, etc.)
+- Built enterprise AI and ML systems across risk, analytics, and decision intelligence
+- Delivered production-grade AI tools
 - Led GenAI adoption, governance, and training initiatives
+- Built Machine Learning and Data Science end-to-end models
 
 ---
 
@@ -47,7 +48,7 @@ LangChain, RAG Pipelines, Prompt Engineering, Vector Databases
 SQL, Hive, Teradata, Neo4j  
 
 **Cloud**  
-AWS, Azure  
+AWS, Azure , GCP
 
 ---
 
@@ -61,7 +62,7 @@ AWS, Azure
 
 ## 📬 Contact
 
-📧 Email: dtygll@gmail.com  
+📧 Email: dtygll@gmail.com  / goel.aditya08@gmail.com
 📍 Location: India (Open to relocate / remote)
 
 ---
